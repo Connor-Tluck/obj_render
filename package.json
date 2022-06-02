@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "main.html"
+  },
+  "dependencies": {
+    "three": "^0.141.0"
+  }
+}
